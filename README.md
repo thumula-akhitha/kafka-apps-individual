@@ -1,5 +1,7 @@
 # kafka-apps-individual
 
+## kafka commands
+All the commands need to be done in different powershell windows
 ### To start the ZooKeeper service
 ```.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties ```
 ### To start the kafka service
